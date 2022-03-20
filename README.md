@@ -1,5 +1,5 @@
 # Go Fish in LISP
-The game of go fish implement in Lisp.
+The game of go fish implemented in Lisp.
 
 # The Rules
 Go Fish is a classic card game with the goal of getting as many complete sets of cards of the same value as possible (e.g. (3 HEARTS) (3 SPADES) (3 DIAMOND) (3 CLUBS)).   The number of players for this game can range anywhere from 2-5.  Typically, the game maxes out at 5.  
